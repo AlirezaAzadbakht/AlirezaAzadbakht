@@ -1,6 +1,6 @@
 ### Hello there!! 👋
 
-I'm a Data Science and AI enthusiast who likes to learn about new things and explore out of the box. 
+I'm a Data Science and AI enthusiast who likes to learn about new things and explore out of the 📦. 
 
 ### ⚡ Domains:
 - Deep Learning
