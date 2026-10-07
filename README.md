@@ -1,23 +1,17 @@
-### Hello there! 👋
+### Hello there!! 👋
 
-I am a passionate Data Science and AI enthusiast who finds joy in exploring new ideas and discovering innovative solutions. With a curious mind and a desire to learn, I seek out-of-the-📦 approaches to challenges.
+I am a passionate Data Science and AI enthusiast who finds joy in exploring new ideas and discovering innovative solutions. With a curious mind and a desire to learn, I constantly seek out-of-the-📦 approaches to challenges. 
 
-🔭 I’m currently focused on developing [Her](https://github.com/AlirezaAzadbakht/her), my open-source personal AI assistant for Android. Built around one continuous conversation, Her remembers, organizes everyday tasks and goals, and follows up when needed.
+🔭 I’m actively engaged in developing an image-to-image translation model specifically for medical images. This project involves using advanced technology to enhance the accuracy and precision of image translations, which can have a significant impact on improving medical diagnoses and treatments.
 
-🌱 I’m expanding my knowledge of large language models, with a particular focus on the Persian language, and exploring the latest advancements in this field.
+🌱 I’m currently expanding my knowledge on large language models, with a particular focus on the Persian language. The field of language models is constantly evolving and improving, and I am excited to stay up-to-date with the latest advancements in this area.
 
-### 🔬 Research
-
-My research interests include image-to-image translation for medical images and making deep neural networks more parameter-efficient.
-
-My work on inter-layer kernel sharing explores reducing the number of trainable parameters in deep convolutional neural networks.
-
-📄 [Paper](https://arxiv.org/abs/2210.14151) · 💻 [Code](https://github.com/AlirezaAzadbakht/kernel-sharing)
-
-### ⚡ Areas of Expertise
-
+### ⚡ Areas of Expertise:
 - Deep Learning
 - Data Science
 - Machine Learning
 - Computer Vision
 
+
+<!--
+**AlirezaAzadbakht/AlirezaAzadbakht** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
