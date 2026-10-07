@@ -21,6 +21,3 @@ My work on inter-layer kernel sharing explores reducing the number of trainable 
 - Machine Learning
 - Computer Vision
 
-### 🤝 Connect
-
-[LinkedIn](https://www.linkedin.com/in/alirezaazadbakht/)
