@@ -12,7 +12,13 @@ I am a passionate Data Science and AI enthusiast who finds joy in exploring new 
 - Machine Learning
 - Computer Vision
 
-<img src="koi/koi.gif" width="256" alt="My koi" />
+### 🐟 My GitHub Koi
+
+<p align="center">
+  <img src="koi/koi.gif" width="256" alt="My koi, drawn from my GitHub activity" />
+  <br />
+  <sub>This koi grows and changes with my public GitHub activity.<br />It's redrawn every day by <a href="https://github.com/yalongwastaken/git-koi">git-koi</a>.</sub>
+</p>
 
 <!--
 **AlirezaAzadbakht/AlirezaAzadbakht** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
