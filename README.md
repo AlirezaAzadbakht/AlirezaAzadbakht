@@ -17,11 +17,11 @@ I am a passionate Data Science and AI enthusiast who finds joy in exploring new 
 <p align="center">
   <img src="bonsai/bonsai.gif" width="220" alt="My bonsai, grown from my GitHub history" />
   &nbsp;&nbsp;
-  <img src="carpet/carpet.svg" width="180" alt="My Persian carpet, woven from my GitHub activity" />
-  &nbsp;&nbsp;
   <img src="koi/koi.gif" width="220" alt="My koi, drawn from my GitHub activity" />
+  &nbsp;&nbsp;
+  <img src="carpet/carpet.svg" width="137" alt="My Persian carpet, woven from my GitHub activity" />
   <br />
-  <sub>All three are drawn from my public GitHub activity and redrawn every day.<br />Bonsai by <a href="https://github.com/egorthinks/git-bonsai">git-bonsai</a> · Carpet by <a href="https://github.com/AlirezaAzadbakht/git-carpet">git-carpet</a> · Koi by <a href="https://github.com/yalongwastaken/git-koi">git-koi</a></sub>
+  <sub>All three are drawn from my public GitHub activity and redrawn every day.<br />Bonsai by <a href="https://github.com/egorthinks/git-bonsai">git-bonsai</a> · Koi by <a href="https://github.com/yalongwastaken/git-koi">git-koi</a> · Carpet by <a href="https://github.com/AlirezaAzadbakht/git-carpet">git-carpet</a></sub>
 </p>
 
 <!--
