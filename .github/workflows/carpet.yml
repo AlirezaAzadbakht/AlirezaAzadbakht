@@ -1,0 +1,20 @@
+name: Carpet
+
+on:
+  schedule:
+    - cron: "40 1 * * *"
+  workflow_dispatch:
+  push:
+    paths: [.github/workflows/carpet.yml]
+
+permissions:
+  contents: write
+
+concurrency: carpet
+
+jobs:
+  weave:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v7
+      - uses: AlirezaAzadbakht/git-carpet@v1
