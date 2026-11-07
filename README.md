@@ -16,8 +16,10 @@ I am a passionate Data Science and AI enthusiast who finds joy in exploring new 
 
 <p align="center">
   <img src="koi/koi.gif" width="256" alt="My koi, drawn from my GitHub activity" />
+  &nbsp;&nbsp;&nbsp;
+  <img src="bonsai/bonsai.gif" width="256" alt="My bonsai, grown from my GitHub history" />
   <br />
-  <sub>This koi grows and changes with my public GitHub activity.<br />It's redrawn every day by <a href="https://github.com/yalongwastaken/git-koi">git-koi</a>.</sub>
+  <sub>Both are drawn from my public GitHub activity and redrawn every day.<br />The koi swims to my recent work (<a href="https://github.com/yalongwastaken/git-koi">git-koi</a>). The bonsai grows with my account's age, contributions and streaks (<a href="https://github.com/egorthinks/git-bonsai">git-bonsai</a>).</sub>
 </p>
 
 <!--
