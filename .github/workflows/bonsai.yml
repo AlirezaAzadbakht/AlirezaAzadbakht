@@ -1,0 +1,22 @@
+name: Bonsai
+
+on:
+  schedule:
+    - cron: "0 3 * * *"
+  workflow_dispatch:
+  push:
+    paths: [.github/workflows/bonsai.yml]
+
+permissions:
+  contents: write
+
+concurrency: bonsai
+
+jobs:
+  grow:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v7
+      - uses: egorthinks/git-bonsai@v1.0.0
+        with:
+          output-dir: bonsai
