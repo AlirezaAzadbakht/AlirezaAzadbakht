@@ -15,11 +15,11 @@ I am a passionate Data Science and AI enthusiast who finds joy in exploring new 
 ---
 
 <p align="center">
-  <img src="koi/koi.gif" width="256" alt="My koi, drawn from my GitHub activity" />
-  &nbsp;&nbsp;&nbsp;
   <img src="bonsai/bonsai.gif" width="256" alt="My bonsai, grown from my GitHub history" />
+  &nbsp;&nbsp;&nbsp;
+  <img src="koi/koi.gif" width="256" alt="My koi, drawn from my GitHub activity" />
   <br />
-  <sub>Both are drawn from my public GitHub activity and redrawn every day.<br />Koi by <a href="https://github.com/yalongwastaken/git-koi">git-koi</a> · Bonsai by <a href="https://github.com/egorthinks/git-bonsai">git-bonsai</a>, shaped by my account's age, contributions and streaks.</sub>
+  <sub>Both are drawn from my public GitHub activity and redrawn every day.<br />Bonsai by <a href="https://github.com/egorthinks/git-bonsai">git-bonsai</a>, shaped by my account's age, contributions and streaks · Koi by <a href="https://github.com/yalongwastaken/git-koi">git-koi</a>.</sub>
 </p>
 
 <!--
