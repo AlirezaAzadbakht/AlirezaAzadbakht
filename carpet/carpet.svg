@@ -1,23 +1,12 @@
 <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 -10 192 308" width="384" height="616" role="img" aria-label="A Persian carpet woven from AlirezaAzadbakht's GitHub activity">
 <title>AlirezaAzadbakht's carpet</title>
 <style>
-.loom{transform-box:fill-box;transform-origin:top;animation:loom 16s infinite}
-@keyframes loom{0%,18.75%{transform:scaleY(0);animation-timing-function:ease-in}
-26.25%{transform:scaleY(1);animation-timing-function:steps(288,end)}
-81.25%,100%{transform:scaleY(0)}}
-.shuttle{animation:shuttle 16s infinite}
-@keyframes shuttle{0%,18.75%{opacity:0;transform:translateY(0);animation-timing-function:ease-in}
-26.25%{opacity:1;transform:translateY(288px);animation-timing-function:steps(288,end)}
-81.25%{opacity:1;transform:translateY(0)}83.75%,100%{opacity:0;transform:translateY(0)}}
-.bobbin{animation:bobbin .7s ease-in-out infinite alternate}
-@keyframes bobbin{from{transform:translateX(4px)}to{transform:translateX(176px)}}
-.shine{animation:shine 16s infinite}
-@keyframes shine{0%,83.13%{transform:translateX(-288px)}98.75%,100%{transform:translateX(288px)}}
-@media (prefers-reduced-motion:reduce){.loom,.shuttle,.shine,.bobbin{animation:none}}</style>
+.shine{animation:shine 7s ease-in-out infinite}
+@keyframes shine{0%{transform:translateX(-288px)}40%,100%{transform:translateX(288px)}}
+@media (prefers-reduced-motion:reduce){.shine{animation:none}}</style>
 <defs>
 <linearGradient id="pile" x1="0" y1="0" x2="0" y2="1"><stop offset="0" stop-color="#fff" stop-opacity=".09"/><stop offset=".55" stop-color="#fff" stop-opacity="0"/><stop offset="1" stop-color="#000" stop-opacity=".16"/></linearGradient>
 <pattern id="knots" width="1" height="1" patternUnits="userSpaceOnUse"><rect width="1" height="1" fill="url(#pile)"/><rect width=".14" height="1" fill="#000" opacity=".07"/></pattern>
-<pattern id="warp" width="2" height="1" patternUnits="userSpaceOnUse"><rect width="2" height="1" fill="#2b1f17"/><rect x=".6" width=".8" height="1" fill="#efe3c6" opacity=".8"/></pattern>
 <linearGradient id="sheen" x1="0" y1="0" x2="1" y2="0"><stop offset="0" stop-color="#fff" stop-opacity="0"/><stop offset=".5" stop-color="#fff" stop-opacity=".22"/><stop offset="1" stop-color="#fff" stop-opacity="0"/></linearGradient>
 <clipPath id="rug"><rect width="192" height="288"/></clipPath>
 </defs>
@@ -115,6 +104,4 @@
 </g>
 <rect width="192" height="288" fill="url(#knots)"/>
 <g clip-path="url(#rug)"><rect class="shine" x="-48" y="-28.8" width="96" height="345.59999999999997" fill="url(#sheen)" transform="translate(-288)" style="mix-blend-mode:soft-light"/></g>
-<rect class="loom" width="192" height="288" fill="url(#warp)" transform="scale(1 0)"/>
-<g class="shuttle" opacity="0"><rect y="-.35" width="192" height=".7" fill="#d6a44a"/><g class="bobbin"><rect y="-2" width="14" height="4" rx="2" fill="#b07a45" stroke="#2b1f17" stroke-width=".6"/><rect x="4" y="-.7" width="6" height="1.4" rx=".7" fill="#9b2226"/></g></g>
 </svg>
